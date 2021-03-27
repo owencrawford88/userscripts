@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name        ktdl
 // @namespace   tny
-// @match       https://kaf.canvas.umn.edu/*
-// @match       https://mediaspace.umn.edu/media/*
+// @match       https://kaf.canvas.illinois.edu/*
+// @match       https://mediaspace.illinois.edu/media/*
 // @grant       none
 // @version     0.0.4
 // @author      tny
